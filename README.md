@@ -1,8 +1,5 @@
 # 🧠 AI-Powered Feedback System
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/landing.png" alt="Landing Page" width="720"/>
-</p>
 
 > Transform raw student data into insightful, personalized AI-powered reports. Get detailed performance analytics, visual feedback, and downloadable reports in seconds.
 
@@ -25,25 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 📸 Screenshots
-
-### 🏠 Landing Page
-<p align="center">
-  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/landing.png" width="700">
-</p>
-
-### 📊 Student Performance Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/dashboard.png" width="700">
-</p>
-
-### 🧾 Personalized Feedback & Cognitive Insights
-<p align="center">
-  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/feedback.png" width="700">
-</p>
 
 ---
 
