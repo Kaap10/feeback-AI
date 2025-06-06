@@ -1,73 +1,103 @@
-# Welcome to your Lovable project
+# 🧠 AI-Powered Feedback System
 
-## Project info
+<p align="center">
+  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/landing.png" alt="Landing Page" width="720"/>
+</p>
 
-**URL**: https://lovable.dev/projects/8e414922-1849-4966-9c5d-e1aba243b219
+> Transform raw student data into insightful, personalized AI-powered reports. Get detailed performance analytics, visual feedback, and downloadable reports in seconds.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+- 📤 Smart Upload: Upload .json test data seamlessly with real-time validation.
+- 🧠 Real AI Analytics: Generate insights like strongest subject, cognitive strengths, and learning styles.
+- 📊 Beautiful Visuals: Dynamic charts, graphs, and performance metrics.
+- 📝 Personalized PDF Reports: Download AI-written feedback with a single click.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8e414922-1849-4966-9c5d-e1aba243b219) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠 Tech Stack
 
-**Use your preferred IDE**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📸 Screenshots
 
-Follow these steps:
+### 🏠 Landing Page
+<p align="center">
+  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/landing.png" width="700">
+</p>
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 📊 Student Performance Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/dashboard.png" width="700">
+</p>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🧾 Personalized Feedback & Cognitive Insights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/being-iota/AI-Powered-Feedback-System/main/assets/feedback.png" width="700">
+</p>
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 📦 Installation
+
+Clone the repository and move into the project folder:
+
+```bash
+git clone https://github.com/being-iota/AI-Powered-Feedback-System.git
+cd AI-Powered-Feedback-System
+npm install
+```
+
+Create a .env file in the root with your OpenAI API Key:
+
+```env
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
+Start the development server:
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 📁 Folder Structure
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+AI-Powered-Feedback-System/
+├── components/
+├── pages/
+├── public/
+├── assets/
+│   ├── landing.png
+│   ├── dashboard.png
+│   └── feedback.png
+├── .env
+├── README.md
+├── package.json
+└── tailwind.config.js
+```
 
-**Use GitHub Codespaces**
+## 🔗 Live Demo
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🌐 [Visit the Site](#)
+📄 [Try Demo AI Reports](#)
 
-## What technologies are used for this project?
+## 🤝 Contributing
 
-This project is built with:
+Pull requests are welcome! Feel free to fork the repo, raise an issue, or submit a PR.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📄 License
 
-## How can I deploy this project?
+This project is licensed under the MIT License — see the LICENSE file for details.
 
-Simply open [Lovable](https://lovable.dev/projects/8e414922-1849-4966-9c5d-e1aba243b219) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 💖 Made with love by
+Vardhman Gupta
