@@ -1,0 +1,52 @@
+.footer {
+  text-align: center;
+  padding: 40px 0 24px 0;
+  background: #fff;
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.logo-text {
+  font-family: 'Inter', 'Roboto', 'Open Sans', Arial, sans-serif;
+  color: #222;
+}
+
+.footer-tagline {
+  margin-top: 8px;
+  font-size: 1.3rem;
+  color: #4b5c7a;
+}
+
+.footer-company {
+  margin-top: 8px;
+  color: #4b5c7a;
+  font-size: 1.1rem;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;
+  margin-top: 32px;
+  color: #8a99b3;
+  font-size: 1.1rem;
+}
+
+.footer-links a {
+  color: #8a99b3;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover {
+  color: #2196F3;
+} 
